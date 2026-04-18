@@ -1,0 +1,2 @@
+# JonAI
+AI Hobbist
